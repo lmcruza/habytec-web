@@ -1,5 +1,9 @@
 .u-section-1 {
-    background-image: url("../images/section1/pexelsphoto2157039.jpg");
+    background-image: url('../images/section1/cabecera.jpg'), linear-gradient(to right, #222222, #ababab);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: screen;
   }
   .u-section-1 .u-sheet-1 {
     min-height: 692px;
@@ -16,7 +20,7 @@
     padding-right: 20px;
   }
   .u-section-1 .u-text-1 {
-    font-size: 2.25rem;
+    font-size: 3.5rem;
     margin: 0;
   }
   .u-section-1 .u-layout-cell-2 {
@@ -144,7 +148,7 @@
     .u-section-1 .u-text-2 {
       margin-top: 42px;
       margin-right: 2px;
-      margin-left: 118px;
+      margin-left: 20px;
     }
     .u-section-1 .u-text-3 {
       margin-right: 3px;
